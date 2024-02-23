@@ -1,0 +1,67 @@
+{
+  "jobs": [
+    {
+      "title": "MERN Stack Developer",
+      "type": "Full Time",
+      "salary": 60000,
+      "deadline": "2023-03-23",
+      "id": 1
+    },
+    {
+      "title": "Product Manager",
+      "type": "Internship",
+      "salary": 5,
+      "deadline": "2023-03-31",
+      "id": 2
+    },
+    {
+      "title": "IOS App Developer",
+      "type": "Full Time",
+      "salary": 100000,
+      "deadline": "2023-04-04",
+      "id": 3
+    },
+    {
+      "title": "Senior Executive",
+      "type": "Internship",
+      "salary": 40000,
+      "deadline": "2023-03-27",
+      "id": 4
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Remote",
+      "salary": 25000,
+      "deadline": "2023-03-16",
+      "id": 5
+    },
+    {
+      "title": "QA Engineer",
+      "type": "Remote",
+      "salary": 45000,
+      "deadline": "2023-04-07",
+      "id": 6
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Remote",
+      "salary": 5405,
+      "deadline": "2023-04-06",
+      "id": 7
+    },
+    {
+      "title": "Android App Developer",
+      "type": "Full Time",
+      "salary": 50000,
+      "deadline": "2023-04-07",
+      "id": 8
+    },
+    {
+      "title": "DevOps Engineer",
+      "type": "Remote",
+      "salary": 564,
+      "deadline": "2023-03-21",
+      "id": 9
+    }
+  ]
+}
